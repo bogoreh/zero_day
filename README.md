@@ -1,2 +1,1 @@
-%Hello Readme
-^^ Important ^^
+Hello Ubuntu
